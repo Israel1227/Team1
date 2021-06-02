@@ -1,4 +1,6 @@
-team.html
-israel.html
-rahma.html
-.gitignore
+/team.html
+/israel.html
+/rahma.html
+/.gitignore
+/js/main.js
+/hello.html
